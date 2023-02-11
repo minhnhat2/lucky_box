@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Khởi tạo pygame
+# Khởi tạo pygame  
 pygame.init()
 
 # Đặt kích thước màn hình
